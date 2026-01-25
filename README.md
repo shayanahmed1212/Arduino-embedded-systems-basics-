@@ -24,31 +24,25 @@ The goal of this repository is to:
 ## 📁 Repository Structure
 
 arduino-basics/
-│
 ├── basics/
-│ ├── analogread.ino
-│ ├── analogwrite.ino
-│ ├── serialprint.ino
-│
+│   ├── analogread.ino
+│   ├── analogwrite.ino
+│   └── serialprint.ino
 ├── control-structures/
-│ ├── ifelse.ino
-│ ├── ifelseif.ino
-│ ├── switchcase.ino
-│ ├── forloop.ino
-│ ├── whileloop.ino
-│
+│   ├── ifelse.ino
+│   ├── ifelseif.ino
+│   ├── switchcase.ino
+│   ├── forloop.ino
+│   └── whileloop.ino
 ├── functions/
-│ ├── creatingfunction.ino
-│ ├── creatingfunctionforled.ino
-│
+│   ├── creatingfunction.ino
+│   └── creatingfunctionforled.ino
 ├── sensors/
-│ ├── AU_ultrasonic.ino
-│ ├── AU_ultrasonicsensor_buzzer_led.ino
-│
+│   ├── AU_ultrasonic.ino
+│   └── AU_ultrasonicsensor_buzzer_led.ino
 ├── projects/
-│ ├── AU_ledblink.ino
-│ ├── AU_led_brightness_auto_high_low.ino
-│
+│   ├── AU_ledblink.ino
+│   └── AU_led_brightness_auto_high_low.ino
 └── README.md
 
 
