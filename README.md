@@ -1,27 +1,17 @@
 <div align="center">
 
-<br/>
-
-<h1>
-  <img src="https://img.shields.io/badge/⚡-Arduino%20Basics%20%26%20Mini%20Projects-39ff14?style=for-the-badge&labelColor=0d1f0d&color=39ff14" height="45"/>
-</h1>
-
-<p>
-  <img src="https://img.shields.io/badge/🤖%20Embedded%20Systems-0d1f0d?style=flat-square&color=1a3d1a"/>
-  <img src="https://img.shields.io/badge/🔧%20Microcontroller%20Programming-0d1f0d?style=flat-square&color=1a3d1a"/>
-  <img src="https://img.shields.io/badge/📈%20Progressive%20Learning-0d1f0d?style=flat-square&color=1a3d1a"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f1a0f,50:1a2e1a,100:0d2b0d&amp;height=210&amp;section=header&amp;text=Arduino%20Basics%20%26%20Mini%20Projects&amp;fontSize=38&amp;fontColor=39ff14&amp;fontAlignY=42&amp;desc=Embedded%20Systems%20%7C%20Microcontroller%20Programming%20%7C%20Progressive%20Learning&amp;descAlignY=63&amp;descColor=7dff7d" width="100%"/>
 
 <br/>
 
-![Arduino](https://img.shields.io/badge/Arduino-Uno-39ff14?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0f1a0f)
-![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-39ff14?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0f1a0f)
-![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-39ff14?style=for-the-badge&labelColor=0f1a0f)
-![Purpose](https://img.shields.io/badge/Purpose-Educational-39ff14?style=for-the-badge&labelColor=0f1a0f)
+![Arduino](https://img.shields.io/badge/Arduino-Uno-39ff14?style=for-the-badge&amp;logo=arduino&amp;logoColor=white&amp;labelColor=0f1a0f)
+![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-39ff14?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&amp;labelColor=0f1a0f)
+![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-39ff14?style=for-the-badge&amp;labelColor=0f1a0f)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-39ff14?style=for-the-badge&amp;labelColor=0f1a0f)
 
 <br/>
 
-> A **foundation-level learning archive** — each sketch isolates one concept,
+> A **foundation-level learning archive** — each sketch isolates one concept,  
 > building toward robotics, IoT, and sensor-driven automation with confidence.
 
 <br/>
@@ -75,8 +65,8 @@ This repository is **intentionally structured to show progressive learning** —
 
 **⚡ I/O Control**
 
-Digital input/output
-Analog read/write
+Digital input/output  
+Analog read/write  
 LED brightness via PWM
 
 </td>
@@ -84,8 +74,8 @@ LED brightness via PWM
 
 **🔁 Logic &amp; Flow**
 
-if-else conditions
-for / while loops
+if-else conditions  
+for / while loops  
 switch-case structures
 
 </td>
@@ -93,8 +83,8 @@ switch-case structures
 
 **📟 Communication**
 
-Serial monitor output
-Baud rate configuration
+Serial monitor output  
+Baud rate configuration  
 Debug logging patterns
 
 </td>
@@ -102,8 +92,8 @@ Debug logging patterns
 
 **📡 Sensors &amp; Actuators**
 
-Ultrasonic (HC-SR04)
-Buzzer output
+Ultrasonic (HC-SR04)  
+Buzzer output  
 Sensor + LED integration
 
 </td>
@@ -190,17 +180,15 @@ Each sketch is small, readable, and focused on **one idea at a time** — no blo
 
 ## 📜 &nbsp;License
 
-This repository is intended for **educational and personal learning purposes.**
+This repository is intended for **educational and personal learning purposes**.  
 Feel free to reference, fork, or build on any sketch — just keep learning. 🔧
 
 <br/>
 
 <div align="center">
 
-![footer](https://img.shields.io/badge/────────────────────────────────────────────────────-0d1f0d?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d2b0d,50:1a2e1a,100:0f1a0f&amp;height=100&amp;section=footer" width="100%"/>
 
 <sub>Built sketch by sketch · Arduino Uno · HC-SR04 · C/C++ · Learning in public</sub>
-
-<br/><br/>
 
 </div>
