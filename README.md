@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1a0f,50:1a2e1a,100:0d2b0d&height=210&section=header&text=Arduino%20Basics%20%26%20Mini%20Projects&fontSize=38&fontColor=39ff14&fontAlignY=42&desc=Embedded%20Systems%20%7C%20Microcontroller%20Programming%20%7C%20Progressive%20Learning&descAlignY=63&descColor=7dff7d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f1a0f,50:1a2e1a,100:0d2b0d&amp;height=210&amp;section=header&amp;text=Arduino%20Basics%20%26%20Mini%20Projects&amp;fontSize=38&amp;fontColor=39ff14&amp;fontAlignY=42&amp;desc=Embedded%20Systems%20%7C%20Microcontroller%20Programming%20%7C%20Progressive%20Learning&amp;descAlignY=63&amp;descColor=7dff7d" width="100%"/>
 
 <br/>
 
-![Arduino](https://img.shields.io/badge/Arduino-Uno-39ff14?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0f1a0f)
-![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-39ff14?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0f1a0f)
-![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-39ff14?style=for-the-badge&labelColor=0f1a0f)
-![Purpose](https://img.shields.io/badge/Purpose-Educational-39ff14?style=for-the-badge&labelColor=0f1a0f)
+![Arduino](https://img.shields.io/badge/Arduino-Uno-39ff14?style=for-the-badge&amp;logo=arduino&amp;logoColor=white&amp;labelColor=0f1a0f)
+![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-39ff14?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&amp;labelColor=0f1a0f)
+![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-39ff14?style=for-the-badge&amp;labelColor=0f1a0f)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-39ff14?style=for-the-badge&amp;labelColor=0f1a0f)
 
 <br/>
 
@@ -72,7 +72,7 @@ LED brightness via PWM
 </td>
 <td align="center" width="25%">
 
-**🔁 Logic & Flow**
+**🔁 Logic &amp; Flow**
 
 if-else conditions  
 for / while loops  
@@ -90,7 +90,7 @@ Debug logging patterns
 </td>
 <td align="center" width="25%">
 
-**📡 Sensors & Actuators**
+**📡 Sensors &amp; Actuators**
 
 Ultrasonic (HC-SR04)  
 Buzzer output  
@@ -187,7 +187,7 @@ Feel free to reference, fork, or build on any sketch — just keep learning. �
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2b0d,50:1a2e1a,100:0f1a0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d2b0d,50:1a2e1a,100:0f1a0f&amp;height=100&amp;section=footer" width="100%"/>
 
 <sub>Built sketch by sketch · Arduino Uno · HC-SR04 · C/C++ · Learning in public</sub>
 
